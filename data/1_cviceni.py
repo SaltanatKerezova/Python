@@ -20,7 +20,7 @@ print(cislo)  # Zopakuje zadanou hodnotu
 cislo = int(cislo) + 1  # Zvýší proměnnou cislo o 1
 print(cislo)  # Vypíše cislo zvětšené o 1
 
-#CVICENI 3--------------------------
+#CVICENI 3------------------------
 
 
 Fahrenheit_1 = float( input("Temperature value in degree Fahrenheit: " ))

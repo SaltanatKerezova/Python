@@ -1,5 +1,6 @@
 with open ("data/mereni.txt", encoding="utf-8") as file:
     text = file.read()
+print('Text')
 print(text)
 
 lines = []
@@ -8,6 +9,7 @@ with open('data/mereni.txt', encoding='utf-8') as file:
     for line in file:
         lines.append(line)
 
+print('lines')
 print(lines)
 
 
